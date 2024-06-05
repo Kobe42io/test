@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+
+h1{
+    color: aquamarine;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.first{
+    color: rgb(73, 72, 72);
+    padding: 50px;
+}
+
+marquee{
+    margin-top: 50px;
+    text-decoration:line-through coral;
+    font-size: xx-large;
+}
