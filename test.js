@@ -7,6 +7,9 @@ let p1 = "bryant "
 var arr = [];
 p1 += '24'
 
+let dice = Math.floor(Math.random()*6) +1
+
+
 
 
 let phrase = "my favorite dessert is jello"
