@@ -21,3 +21,59 @@ marquee{
     text-decoration:line-through coral;
     font-size: xx-large;
 }
+
+ul em{
+color: brown;
+}
+
+ul>li>em{
+color: blueviolet;
+}
+
+#grandfrere +li{
+color: brown;
+}
+
+input[name^=mp]{
+    border-radius: 2%;
+    border: 5px solid;
+    border-color: pink;}
+
+input{
+    transform: rotate(3deg);
+
+}
+
+li{
+    list-style: none;
+}
+
+li:nth-child(2n+1){background-color: grey}
+
+li:first-child{background-color: rgb(150, 59, 241);}
+
+
+nav{
+    display: flex;
+    border: 1px solid orange;
+}
+
+#Logout{
+    margin-left: auto
+}
+
+#test{
+    padding: 20px;
+    display: flex;
+
+}
+
+#menu{
+    display: flex;
+    margin-left: auto;
+    border: none;
+}
+
+#menu div{
+margin-right: 8px;
+}
