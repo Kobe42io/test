@@ -15,7 +15,7 @@ let attAleatoir = Math.floor(Math.random()*10) +1
 
 function attaque(pokemon){
     return console.log(` attaque  et lui enleve ${pv - pp}`);
-},
+}
 
 
 
